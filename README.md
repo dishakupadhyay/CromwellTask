@@ -2,14 +2,12 @@
 *This is a README file for my Cypress framework given by Cromwell company as a interview Task.
 
 ## Prerequisite
-*Download Node&NPM
-
-*Set NODE_HOME environment variable
-
-*Create Cypress Working Folder
-*Generate pakage.json
-*Install Cypress
-*Download Visual Studio Code Editor
+*Download Node&NPM*
+*Set NODE_HOME environment variable*
+*Create Cypress Working Folder*
+*Generate pakage.json*
+*Install Cypress*
+*Download Visual Studio Code Editor*
 
 '''Javascript'''
 
