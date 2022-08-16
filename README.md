@@ -3,13 +3,15 @@
 
 ## Prerequisite
 *Download Node&NPM
+
 *Set NODE_HOME environment variable
+
 *Create Cypress Working Folder
 *Generate pakage.json
 *Install Cypress
 *Download Visual Studio Code Editor
 
-'''javascript'''
+'''Javascript'''
 
 
 ###Link
